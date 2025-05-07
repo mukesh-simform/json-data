@@ -1,1 +1,177 @@
-[{ "name": "apple", "category": "fruit", "sku": "SIM123" },{ "name": "carrot", "category": "vegetable", "sku": "SIM123" },{ "name": "banana", "category": "fruit", "sku": "SIM123" },{ "name": "broccoli", "category": "vegetable", "sku": "SIM123" },{ "name": "grapes", "category": "fruit", "sku": "SIM124" },{ "name": "potato", "category": "vegetable", "sku": "SIM125" },{ "name": "mango", "category": "fruit", "sku": "SIM126" },{ "name": "tomato", "category": "vegetable", "sku": "SIM127" },{ "name": "orange", "category": "fruit", "sku": "SIM128" }]
+[
+   {
+      "id":1,
+      "title":"iPhone 13",
+      "price":999,
+      "category":"Electronics",
+      "sku":"ELEC-001"
+   },
+   {
+      "id":2,
+      "title":"Samsung Galaxy S22",
+      "price":899,
+      "category":"Electronics",
+      "sku":"ELEC-002"
+   },
+   {
+      "id":3,
+      "title":"MacBook Pro",
+      "price":1499,
+      "category":"Electronics",
+      "sku":"ELEC-003"
+   },
+   {
+      "id":4,
+      "title":"AirPods Pro",
+      "price":249,
+      "category":"Electronics",
+      "sku":"ELEC-004"
+   },
+   {
+      "id":5,
+      "title":"Nike Air Max",
+      "price":129,
+      "category":"Footwear",
+      "sku":"FOOT-001"
+   },
+   {
+      "id":6,
+      "title":"Adidas Ultraboost",
+      "price":159,
+      "category":"Footwear",
+      "sku":"FOOT-002"
+   },
+   {
+      "id":7,
+      "title":"Levi's 501",
+      "price":79,
+      "category":"Clothing",
+      "sku":"CLOTH-001"
+   },
+   {
+      "id":8,
+      "title":"The North Face Jacket",
+      "price":199,
+      "category":"Clothing",
+      "sku":"CLOTH-002"
+   },
+   {
+      "id":9,
+      "title":"H&M T-Shirt",
+      "price":19,
+      "category":"Clothing",
+      "sku":"CLOTH-003"
+   },
+   {
+      "id":10,
+      "title":"Kindle Paperwhite",
+      "price":139,
+      "category":"Electronics",
+      "sku":"ELEC-005"
+   },
+   {
+      "id":11,
+      "title":"Dell XPS 13",
+      "price":1299,
+      "category":"Electronics",
+      "sku":"ELEC-006"
+   },
+   {
+      "id":12,
+      "title":"Levi's 501",
+      "price":89,
+      "category":"Clothing",
+      "sku":"CLOTH-004"
+   },
+   {
+      "id":13,
+      "title":"AirPods Pro",
+      "price":249,
+      "category":"Electronics",
+      "sku":"ELEC-004"
+   },
+   {
+      "id":14,
+      "title":"iPhone 13",
+      "price":979,
+      "category":"Electronics",
+      "sku":"ELEC-007"
+   },
+   {
+      "id":15,
+      "title":"Samsung Galaxy S22",
+      "price":879,
+      "category":"Electronics",
+      "sku":"ELEC-008"
+   },
+   {
+      "id":16,
+      "title":"Samsung Galaxy S22",
+      "price":919,
+      "category":"Electronics",
+      "sku":"ELEC-009"
+   },
+   {
+      "id":17,
+      "title":"MacBook Pro",
+      "price":1599,
+      "category":"Electronics",
+      "sku":"ELEC-010"
+   },
+   {
+      "id":18,
+      "title":"Nike Air Max",
+      "price":119,
+      "category":"Footwear",
+      "sku":"FOOT-001"
+   },
+   {
+      "id":19,
+      "title":"Adidas Ultraboost",
+      "price":169,
+      "category":"Footwear",
+      "sku":"FOOT-003"
+   },
+   {
+      "id":20,
+      "title":"Levi's 501",
+      "price":99,
+      "category":"Clothing",
+      "sku":"CLOTH-005"
+   },
+   {
+      "id":21,
+      "title":"H&M T-Shirt",
+      "price":19,
+      "category":"Clothing",
+      "sku":"CLOTH-003"
+   },
+   {
+      "id":22,
+      "title":"iPhone 13",
+      "price":1049,
+      "category":"Electronics",
+      "sku":"ELEC-011"
+   },
+   {
+      "id":23,
+      "title":"Dell XPS 13",
+      "price":1299,
+      "category":"Electronics",
+      "sku":"ELEC-006"
+   },
+   {
+      "id":24,
+      "title":"Apple Watch",
+      "price":399,
+      "category":"Electronics",
+      "sku":"ELEC-012"
+   },
+   {
+      "id":25,
+      "title":"Apple Watch",
+      "price":429,
+      "category":"Electronics",
+      "sku":"ELEC-013"
+   }
+]
