@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "category": "Smartphones",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S24",
+    "price": 899.99,
+    "category": "Smartphones",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "3",
+    "name": "Google Pixel 8",
+    "price": 799.99,
+    "category": "Smartphones",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "4",
+    "name": "iPad Pro 12.9",
+    "price": 1099.99,
+    "category": "Tablets",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "5",
+    "name": "iPad Air",
+    "price": 599.99,
+    "category": "Tablets",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "6",
+    "name": "Samsung Galaxy Tab S9",
+    "price": 699.99,
+    "category": "Tablets",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "7",
+    "name": "MacBook Pro 16",
+    "price": 2499.99,
+    "category": "Laptops",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "8",
+    "name": "MacBook Air M3",
+    "price": 1199.99,
+    "category": "Laptops",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "9",
+    "name": "Dell XPS 15",
+    "price": 1799.99,
+    "category": "Laptops",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "10",
+    "name": "Apple Watch Series 9",
+    "price": 399.99,
+    "category": "Wearables",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "11",
+    "name": "Samsung Galaxy Watch 6",
+    "price": 299.99,
+    "category": "Wearables",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "12",
+    "name": "AirPods Pro 2",
+    "price": 249.99,
+    "category": "Audio",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "13",
+    "name": "Sony WH-1000XM5",
+    "price": 349.99,
+    "category": "Audio",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "14",
+    "name": "Apple TV 4K",
+    "price": 179.99,
+    "category": "Accessories",
+    "image": "https://placehold.co/200x200"
+  },
+  {
+    "id": "15",
+    "name": "MagSafe Charger",
+    "price": 39.99,
+    "category": "Accessories",
+    "image": "https://placehold.co/200x200"
+  }
+]
