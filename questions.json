@@ -1,0 +1,112 @@
+[
+   {
+      "id":1,
+      "question":"Which of the following is NOT a primitive data type in JavaScript?",
+      "options":[
+         "string",
+         "number",
+         "array",
+         "boolean"
+      ],
+      "correctAnswer":2
+   },
+   {
+      "id":2,
+      "question":"What will console.log(typeof null) output?",
+      "options":[
+         "null",
+         "undefined",
+         "object",
+         "string"
+      ],
+      "correctAnswer":2
+   },
+   {
+      "id":3,
+      "question":"Which method is used to add an element to the end of an array?",
+      "options":[
+         "append()",
+         "add()",
+         "push()",
+         "insert()"
+      ],
+      "correctAnswer":2
+   },
+   {
+      "id":4,
+      "question":"What does the 'let' keyword provide that 'var' doesn't?",
+      "options":[
+         "Global scope",
+         "Function scope",
+         "Block scope",
+         "Module scope"
+      ],
+      "correctAnswer":2
+   },
+   {
+      "id":5,
+      "question":"In TypeScript, what does the '?' symbol mean after a property name?",
+      "options":[
+         "The property is required",
+         "The property is optional",
+         "The property is a function",
+         "The property is private"
+      ],
+      "correctAnswer":1
+   },
+   {
+      "id":6,
+      "question":"Which TypeScript type represents any value?",
+      "options":[
+         "unknown",
+         "any",
+         "object",
+         "void"
+      ],
+      "correctAnswer":1
+   },
+   {
+      "id":7,
+      "question":"What does 'const' keyword do in JavaScript?",
+      "options":[
+         "Creates a variable that can be reassigned",
+         "Creates a variable that cannot be reassigned",
+         "Creates a global variable",
+         "Creates a temporary variable"
+      ],
+      "correctAnswer":1
+   },
+   {
+      "id":8,
+      "question":"Which of the following is a falsy value in JavaScript?",
+      "options":[
+         "1",
+         "'false'",
+         "[]",
+         "0"
+      ],
+      "correctAnswer":3
+   },
+   {
+      "id":9,
+      "question":"How do you access the first element of an array named 'fruits'?",
+      "options":[
+         "fruits[1]",
+         "fruits[0]",
+         "fruits.first()",
+         "fruits.get(0)"
+      ],
+      "correctAnswer":1
+   },
+   {
+      "id":10,
+      "question":"What does TypeScript add to JavaScript?",
+      "options":[
+         "Better performance",
+         "Static type checking",
+         "New syntax for loops",
+         "Built-in database support"
+      ],
+      "correctAnswer":1
+   }
+]
